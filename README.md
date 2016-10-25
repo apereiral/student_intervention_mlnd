@@ -1,3 +1,8 @@
+# TLDR: If you want to read the project's final report click on: report.html
+# Bellow you can find the original README file from Udacity explaining some details about the project.
+
+________________________________________________________________________________________________________________________________________
+
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
 
